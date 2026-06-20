@@ -17,6 +17,7 @@ network:
    allowed:
       - github.com
       - github.blog
+      - awesome-copilot.github.com
 ---
 
 # Update Mona's GitHub Info website
@@ -26,7 +27,12 @@ Read `notes/mona-notes.md` before making changes.
 Use these sources:
 - `notes/mona-notes.md`
 - GitHub Blog: https://github.blog/latest/
-- GitHub Changelog: https://github.blog/changelog/
+ - GitHub Changelog: https://github.blog/changelog/
+ - Awesome Copilot Workflows: https://awesome-copilot.github.com/workflows/
+
+Web-fetch instruction:
+
+- Web fetch https://awesome-copilot.github.com/workflows/ and include any relevant workflow listings or summaries as additional sources; when using content from that page, cite it in the updates.
 
 Update `site/content/github-info.md` with concise,
 practical updates for readers and include source context when content comes
